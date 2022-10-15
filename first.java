@@ -1,3 +1,3 @@
 this is the first program
 
-hello add whatevere you want
+hello add whatever you want
